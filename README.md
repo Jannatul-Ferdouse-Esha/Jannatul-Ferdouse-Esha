@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**Jannatul-Ferdouse-Esha/Jannatul-Ferdouse-Esha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Jannatul Ferdouse Esha, a 4th Year CSE student at Shahjalal University of Science and Technology (SUST).
 
-Here are some ideas to get you started:
+## About Me
+- 🎓 B.Sc. in Computer Science & Engineering
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+### Explore Anatomy
+Interactive anatomy learning platform with 3D models, quizzes, and educational content.
+
+### IICT Building 
+
+### Portfolio Website
+Personal portfolio showcasing projects and skills.
